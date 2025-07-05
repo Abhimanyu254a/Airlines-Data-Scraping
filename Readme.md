@@ -40,9 +40,10 @@ This solution empowers developers and data analysts to harness up-to-the-minute 
     - [Prerequisites](#prerequisites)  
     - [Installation](#installation)  
     - [Usage](#usage)  
-    - [Testing](#testing)  
-- [Contributing](#🤝-contributing)  
-- [License](#📄-license)
+
+
+
+
 
 ---
 
@@ -69,6 +70,9 @@ Download the requirement.txt file and install the dependencies :
 ```bash
 pip install -r requirement.txt
 ```
+
+### Usage
+
 Run the app
 
 ```bash
