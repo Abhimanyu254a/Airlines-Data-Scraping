@@ -34,8 +34,8 @@ This solution empowers developers and data analysts to harness up-to-the-minute 
 
 ## 📚 Table of Contents
 
-- [Overview](#🚀-overview)  
-- [Why Airlines-Data-Scraping?](#🎯-why-airlines-data-scraping)  
+- [Overview](#-overview)  
+- [Why Airlines-Data-Scraping?](#-table-of-contents)  
 - [Getting Started](#getting-started)  
     - [Prerequisites](#prerequisites)  
     - [Installation](#installation)  
